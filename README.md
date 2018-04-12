@@ -1,5 +1,5 @@
 # hello_world
-# Matthew Carley
+# Matthew Carley & Mitchell Kenna
 # April 12, 2018
 # lab section 1
 
