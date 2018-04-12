@@ -1,0 +1,35 @@
+commit 1ea2878c055a15e3dd3acac5028c5ea84a18850f
+Author: itsmitchk <38331878+itsmitchk@users.noreply.github.com>
+Date:   Thu Apr 12 16:35:52 2018 -0400
+
+    Update README.md
+
+commit 91721282e11624ce7bfb68ccc3a77a6ea0002cc7
+Author: Matt <mattcarley724@my.uri.edu>
+Date:   Thu Apr 12 16:28:42 2018 -0400
+
+    fixed spelling
+
+commit 5aed2abf6394333f17e3c89a76db339bbc46b70b
+Author: Matt <mattcarley724@my.uri.edu>
+Date:   Thu Apr 12 16:23:46 2018 -0400
+
+    Added main
+
+commit 9f0bc4ac28ace1865e33ad28c0579c513e7bebd3
+Author: Matt <mattcarley724@my.uri.edu>
+Date:   Thu Apr 12 16:21:22 2018 -0400
+
+    Added a main.cc that prints "Hello World"
+
+commit 153168c82761da079ac9dccb84bd572d4529e78f
+Author: Matt <mattcarley724@my.uri.edu>
+Date:   Thu Apr 12 16:00:43 2018 -0400
+
+    Created a repsitory called "hello_world" and new README.md
+
+commit bd85dac9677fd106264dccfff0ff78fb7a2b5c8b
+Author: Matt <mattcarley724@my.uri.edu>
+Date:   Thu Apr 12 15:42:52 2018 -0400
+
+    Initial commit
